@@ -1,18 +1,18 @@
 {
   "files": {
-    "main.css": "/Grasu-Lucian/Calculator.git/static/css/main.88cc6d13.chunk.css",
-    "main.js": "/Grasu-Lucian/Calculator.git/static/js/main.a9ce6345.chunk.js",
-    "main.js.map": "/Grasu-Lucian/Calculator.git/static/js/main.a9ce6345.chunk.js.map",
-    "runtime-main.js": "/Grasu-Lucian/Calculator.git/static/js/runtime-main.b5b983ba.js",
-    "runtime-main.js.map": "/Grasu-Lucian/Calculator.git/static/js/runtime-main.b5b983ba.js.map",
-    "static/js/2.fa649836.chunk.js": "/Grasu-Lucian/Calculator.git/static/js/2.fa649836.chunk.js",
-    "static/js/2.fa649836.chunk.js.map": "/Grasu-Lucian/Calculator.git/static/js/2.fa649836.chunk.js.map",
-    "index.html": "/Grasu-Lucian/Calculator.git/index.html",
-    "static/css/main.88cc6d13.chunk.css.map": "/Grasu-Lucian/Calculator.git/static/css/main.88cc6d13.chunk.css.map",
-    "static/js/2.fa649836.chunk.js.LICENSE.txt": "/Grasu-Lucian/Calculator.git/static/js/2.fa649836.chunk.js.LICENSE.txt"
+    "main.css": "/Calculator/static/css/main.88cc6d13.chunk.css",
+    "main.js": "/Calculator/static/js/main.a9ce6345.chunk.js",
+    "main.js.map": "/Calculator/static/js/main.a9ce6345.chunk.js.map",
+    "runtime-main.js": "/Calculator/static/js/runtime-main.463a4866.js",
+    "runtime-main.js.map": "/Calculator/static/js/runtime-main.463a4866.js.map",
+    "static/js/2.fa649836.chunk.js": "/Calculator/static/js/2.fa649836.chunk.js",
+    "static/js/2.fa649836.chunk.js.map": "/Calculator/static/js/2.fa649836.chunk.js.map",
+    "index.html": "/Calculator/index.html",
+    "static/css/main.88cc6d13.chunk.css.map": "/Calculator/static/css/main.88cc6d13.chunk.css.map",
+    "static/js/2.fa649836.chunk.js.LICENSE.txt": "/Calculator/static/js/2.fa649836.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.b5b983ba.js",
+    "static/js/runtime-main.463a4866.js",
     "static/js/2.fa649836.chunk.js",
     "static/css/main.88cc6d13.chunk.css",
     "static/js/main.a9ce6345.chunk.js"
